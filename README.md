@@ -1,2 +1,2 @@
-# Ai-Proxy-site
-Meaning of what AI Proxy is
+# Ai-Proxy-status
+Status page of Ai-proxies
